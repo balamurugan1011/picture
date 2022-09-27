@@ -1,0 +1,21 @@
+#header{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(128, 6, 6);
+
+}
+img{
+    height: 75px; 
+}
+#header ol{
+    float: right;
+    margin-right: 500px;
+
+}
+#header ol li{
+    display: inline;
+}
+#images img{
+    float: right;
+    height: 75px;
+}
